@@ -22,7 +22,7 @@ function Home2() {
             <p className="home-about-body">
               I am a passionate software engineer and technology enthusiast with a strong interest in competitive programming. I enjoy building projects, exploring new technologies and collaborating with like-minded individuals.
               <br />
-              <br />I am love to doing problem solving in C++ on various online platforms like 
+              <br />I am passionate about problem solving in C++ on various online platforms like 
               <i>
                 <b>
                   <CodingProfile/>
